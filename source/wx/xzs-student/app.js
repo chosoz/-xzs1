@@ -95,7 +95,7 @@ App({
           } else {
             resolve(res.data);
             return true;
-          }
+          }.
         },
         fail(res) {
           reject(res.errMsg)
