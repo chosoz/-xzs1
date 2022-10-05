@@ -6,7 +6,7 @@
  <img src="https://www.mindskip.net/style/git/images/logo/1.png" height="80"/>
 <a/>
 </p>
-
+.
 <div align="center">
 
 [![Gitee star](https://gitee.com/mindskip/uexam/badge/star.svg?theme=gvp)](https://gitee.com/mindskip/uexam) 
